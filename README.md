@@ -7,7 +7,7 @@
 | **NIM** | 312310607 |
 | **Kelas** | TI.23.A6 |
 | **Mata Kuliah** | Bahasa Pemrograman |
-| **Link vidio Penjelasan** | https://www.youtube.com/watch?v=8MzmLtOLDOk |
+| **Link vidio Penjelasan** | https://youtu.be/2HwxoxQ1KTA?si=57CnzqsM9mo0_PKn |
 
 # Langkah-langkah Program
 1. Program mulai dengan mendefinisikan dictionary Menu yang berisi daftar makanan beserta harganya.
