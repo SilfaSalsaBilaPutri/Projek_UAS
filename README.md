@@ -20,3 +20,5 @@
 8. Terakhir, program mencetak struk pembayaran yang berisi informasi pesanan, jumlah yang dipesan, total biaya sebelum diskon, dan total yang harus dibayar setelah diskon
 
 # Kode Program
+![gambar](UAS1.png)
+![gambar](UAS2.png)
